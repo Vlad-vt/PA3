@@ -113,5 +113,10 @@ public class MagnetometerController : MonoBehaviour
     }
 }
 
+**Результати роботи програми на 2 різних Android телефонах**
+
+
+![lr2](https://github.com/Vlad-vt/PA3/assets/65038865/ec9a8d00-f09d-4d17-a0e7-7ad1272068c9)
+![lr1](https://github.com/Vlad-vt/PA3/assets/65038865/94f70458-5e11-4b3e-a966-3dcc17412a1e)
 
 
